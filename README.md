@@ -1,2 +1,2 @@
 # auto_login_selenium
-Automatically and quickly login to webpages
+Automatically and quickly login to github
